@@ -162,6 +162,7 @@ private:
         {
             system("cmake --build . --target Shaders");
             eh.set_released_key(Key::R, false);
+            wc.reload_shaders();
         }
         if (use_controller)
         {
