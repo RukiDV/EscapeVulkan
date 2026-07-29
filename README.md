@@ -3,7 +3,7 @@
   # EscapeVulkan
 </div>
 
-![Screenshot from the game](./images/cover_image.png)
+![Screenshot from the game](./cover_image.png)
 
 ### About
 EscapeVulkan is an infinity runner game where the player is flying in a spaceship through a tunnel. The longer the spaceship flys without touching the wall the higher the score will be. It was developed as a project for the university. It compiles and runs on Linux (if all dependencies are installed). You are welcome to try it on Windows and tell me 🙂
